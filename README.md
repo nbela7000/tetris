@@ -1,1 +1,1 @@
-# tetris
+play the game
